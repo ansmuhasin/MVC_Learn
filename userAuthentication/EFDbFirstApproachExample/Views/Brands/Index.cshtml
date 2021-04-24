@@ -1,0 +1,39 @@
+﻿@*@model List<EFDbFirstApproachExample.Models.Brand>*@
+
+@{
+    ViewBag.Title = "Brands";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Brands</h2>
+<button type="button" class="js-GetBrandsButton">Get Brands</button>
+<table class="table brandtable">
+    <tr>
+        <th>Brand ID</th>
+        <th>Brand Name</th>
+    </tr>
+    @*@foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.BrandID</td>
+            <td>@item.BrandName</td>
+        </tr>
+    }*@
+
+</table>
+
+<script>
+    $('.js-GetBrandsButton').click(() => {
+        $.ajax({
+            type: "Get", url: "/api/brands", success: (result) => {
+                debugger;
+                for (var i = 0; i < result.length; i++) {
+                    debugger;
+                    var br = result[i];
+                    var str = "<tr><td>" + br.BrandID + "</td><td>" + br.BrandName + "</td></tr>";
+                    $(".brandtable").append(str);
+                }
+            }, error: (err) => { alert.log(err);}
+        })
+    });
+</script>

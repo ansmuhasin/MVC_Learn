@@ -1,0 +1,32 @@
+﻿@model Product_details.EntityModels.Product
+<h2>Product Details</h2>
+<table class="table">
+    <tr>
+        <th>Product Id</th>
+        <td>@Model.ProductID</td>
+    </tr>
+    <tr>
+        <th>Product Name</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Rate</th>
+        <td>@Model.Price</td>
+    </tr>
+    <tr>
+        <th>Brand</th>
+        <td>@(Model.Brand?.BrandName)</td>
+    </tr>
+    <tr>
+        <th>Category</th>
+        <td>@(Model.Category?.CategoryName)</td>
+    </tr>
+    <tr>
+        <th>Availability</th>
+        <td>@Model.AvailabilityStatus</td>
+    </tr>
+</table>
+<div>
+    <a href=@Url.Action("GetUpdateProductView", "Product",new { id = Model.ProductID })>Update product</a>
+    <a href=@Url.Action("DeleteProduct", "Product",new { id = Model.ProductID })>Delete product</a>
+</div>

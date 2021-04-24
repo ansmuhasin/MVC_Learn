@@ -1,0 +1,12 @@
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\obj\Debug\Company.DomainModels.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\Company.DomainModels.dll
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\Company.DomainModels.pdb
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\obj\Debug\Company.DomainModels.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\obj\Debug\Company.DomainModels.dll
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\obj\Debug\Company.DomainModels.pdb
+C:\mvc\EFDbFirstApproachExample\Company.DomainModels\obj\Debug\Company.DomainModels.csprojAssemblyReference.cache

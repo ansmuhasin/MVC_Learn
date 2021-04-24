@@ -1,0 +1,180 @@
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.Quantity.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RequiredValidation.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.AvailabilityStatusRequired.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.MyValidation.resources
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csc.exe
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csi.exe
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EntityFramework.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EntityFramework.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Newtonsoft.Json.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Owin.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\Newtonsoft.Json.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialMigration.resources
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Net.Http.Formatting.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Http.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Http.WebHost.dll
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Net.Http.Formatting.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Http.xml
+F:\Learning Projects\MVC_Learn\userAuthentication\EFDbFirstApproachExample\bin\System.Web.Http.WebHost.xml
